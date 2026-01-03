@@ -91,7 +91,6 @@ The models are evaluated using **30+ performance metrics**, including:
 
 ![Actual vs Predicted Power Demand](images/actual_vs_predicted_zoom.png)
 
-![Month-wise Actual vs Predicted Power Demand](images/![Actual vs Predicted Power Demand](images/actual_vs_predicted_zoom.png)
 
 ![Month-wise Actual vs Predicted Power Demand](images/month_wise_actual_predicted_2024.png)
 
